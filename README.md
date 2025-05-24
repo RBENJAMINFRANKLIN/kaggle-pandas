@@ -1,5 +1,5 @@
 # kaggle-pandas
-Python Pandas – Kaggle Learn
+*Python Pandas – Kaggle Learn*
 
 🐼 Python Pandas – Kaggle Learn
 Welcome to my repository for the Pandas course on Kaggle Learn. This repo contains notes, exercises, and solutions that cover the foundational and intermediate concepts of the pandas library — Python’s powerful data analysis toolkit.
